@@ -1,2 +1,2 @@
 # server_utils
-Script utils to set up a server
+Personnal scripts utils to set up a VPS server based on debian

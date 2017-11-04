@@ -1,4 +1,9 @@
 #!/bin/bash
+# Script to install java 8
+# @author aurrelhebert
+# @license apache 2.0
+#
+
 
 export JDK_INSTALL=/opt/java/jdk1.8.0_152
 

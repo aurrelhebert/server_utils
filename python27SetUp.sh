@@ -1,3 +1,8 @@
+# Script to install python 2.7 
+# @author aurrelhebert
+# @license apache 2.0
+#
+
 #Change Directory 
 cd /usr/src
 
